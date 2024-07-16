@@ -1,7 +1,7 @@
 # ORCA_nebsnapshots
 ## Requirement
-python3/
-numpy/
+python3\
+numpy\
 matplotlib
 
 ## Usage
