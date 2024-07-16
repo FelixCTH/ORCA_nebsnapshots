@@ -57,12 +57,12 @@ if __name__ == "__main__":
 
     """
     Script to generate quick 'energy-profile' trajectory from an ORCA NEB run
-    using python 2.7, numpy and matplotlib.
+    using python 3, numpy and matplotlib.
 
     Usage: python neb_snapshots.py basename.interp start_at_iter<int> end_at_iter<int> full<bool>
     (in the given order)
 
-    Authors: Vilhjalmur Asgeirsson, Benedikt Orri Birgirsson (UI, 2018)
+    Original Authors: Vilhjalmur Asgeirsson, Benedikt Orri Birgirsson (UI, 2018)
     email for bugs and requests: via9@hi.is, bob9@hi.is
     """
 
