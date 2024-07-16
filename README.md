@@ -1,8 +1,8 @@
 # ORCA_nebsnapshots
-## Requirement
+## Requirements
 python3\
 numpy\
 matplotlib
 
-## Usage
+## Usages
 python neb_snapshots.py basename.interp
